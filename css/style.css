@@ -1,0 +1,6 @@
+.row{
+    padding: 2px 0px 2px 0px;
+}
+
+.tableFixHead          { overflow-y: auto; height: 280px; }
+.tableFixHead thead th { position: sticky; top: 0; }
